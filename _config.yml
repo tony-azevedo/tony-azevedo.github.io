@@ -1,0 +1,12 @@
+title: "Tony Azevedo"
+description: "Academic Portfolio"
+theme: minima # You can change this if needed
+baseurl: "" # Leave empty for GitHub Pages root
+url: "https://tony-azevedo.github.io"
+markdown: kramdown
+include:
+  - _pages
+  - _posts
+exclude:
+  - README.md
+permalink: /:title/
