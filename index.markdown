@@ -7,14 +7,10 @@ layout: home
 title: "Tony Azevedo, PhD"
 ---
 
-# Tony Azevedo, PhD
+## Sensorimotor neural circuits for control in Drosophila
 
-<nav>
-- [Home](index.md)
-- [Research](research.html)
-- [Publications](publications.html)
-- [Projects & Interests](projects.html)
-</nav>
+
+
 
 ## About Me
 
