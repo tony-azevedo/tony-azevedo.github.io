@@ -28,9 +28,11 @@ linkedin_username: tonyazevedo
 github_username:  tony-azevedo
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: wowthemesnet/affiliates-jekyll-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
