@@ -20,13 +20,13 @@ Kuan AT, Phelps JS, Thomas LA, Nguyen TM, Han J, Chen CL, **Azevedo AW**, Tuthil
 
 Grimes WN, Baudin J, **Azevedo AW**, Rieke F. Range, routing and kinetics of rod signaling in primate retina. Elife. 2018;7:e38281. [web] (https://elifesciences.org/articles/38281)
 
-**Azevedo AW**, Wilson RI. Active Mechanisms of Vibration Encoding and Frequency Filtering in Central Mechanosensory Neurons. Neuron. 2017. Oct 11;96(2):446-460. [https://doi.org/10.1016/j.neuron.2017.09.004 ](https://doi.org/10.1016/j.neuron.2017.09.004)
+**Azevedo AW**, Wilson RI. Active Mechanisms of Vibration Encoding and Frequency Filtering in Central Mechanosensory Neurons. Neuron. 2017. Oct 11;96(2):446-460. [web](https://doi.org/10.1016/j.neuron.2017.09.004)
 
-**Azevedo AW**, Doan T, Moaven H, Sokal I, Baameur F, Vishnivetskiy SA, Homan KT, Tesmer JJG, Gurevich VV, Chen J, Rieke F. C-terminal Threonines and Serines Play Distinct Roles in the Desensitization of Rhodopsin, a G protein-Coupled Receptor. ELife 2015; 4:e05981. [https://doi.org/10.7554/eLife.05981 ](https://doi.org/10.7554/eLife.05981)
+**Azevedo AW**, Doan T, Moaven H, Sokal I, Baameur F, Vishnivetskiy SA, Homan KT, Tesmer JJG, Gurevich VV, Chen J, Rieke F. C-terminal Threonines and Serines Play Distinct Roles in the Desensitization of Rhodopsin, a G protein-Coupled Receptor. ELife 2015; 4:e05981. [web](https://doi.org/10.7554/eLife.05981)
 
-**Azevedo AW**, Rieke F.  Experimental protocols alter phototransduction: implications for retinal processing at visual threshold.  Journal of Neuroscience. 2011 Mar 9;31(10):3670-82. [https://doi.org/10.1523/JNEUROSCI.4750-10.2011 ](https://doi.org/10.1523/JNEUROSCI.4750-10.2011)
+**Azevedo AW**, Rieke F.  Experimental protocols alter phototransduction: implications for retinal processing at visual threshold.  Journal of Neuroscience. 2011 Mar 9;31(10):3670-82. [web](https://doi.org/10.1523/JNEUROSCI.4750-10.2011)
 
-Doan T, **Azevedo AW**, Hurley JB, Rieke F.  Arrestin competition influences the kinetics and variability of the single-photon responses of mammalian rod photoreceptors. Journal of Neuroscience. 2009 Sep 23;29(38):11867-79. https://doi.org/10.1523/JNEUROSCI.0819-09.2009 
+Doan T, **Azevedo AW**, Hurley JB, Rieke F.  Arrestin competition influences the kinetics and variability of the single-photon responses of mammalian rod photoreceptors. Journal of Neuroscience. 2009 Sep 23;29(38):11867-79. [web](https://doi.org/10.1523/JNEUROSCI.0819-09.2009) 
 
 ## Preprints
 Himanshu Pawankumar Gupta, **Anthony W. Azevedo**, Yu-C-hieh David Chen, Kristi Xing, Peter A Sims, Erdem Varol, Richard S. Mann. Decoding neuronal wiring by joint inference of cell identity and synaptic connectivity. (2025) Preprint at https://doi.org/10.1101/2025.03.04.640006 (2025).
