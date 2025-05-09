@@ -18,7 +18,7 @@ Kuan AT, Phelps JS, Thomas LA, Nguyen TM, Han J, Chen CL, **Azevedo AW**, Tuthil
 
 **Azevedo AW**, Dickinson ES, Gurung P, Venkatasubramanian L, Mann RS, Tuthill JC. A size principle for recruitment of Drosophila leg motor neurons. Elife. 2020;9:e56754. [web](https://elifesciences.org/articles/56754)
 
-Grimes WN, Baudin J, **Azevedo AW**, Rieke F. Range, routing and kinetics of rod signaling in primate retina. Elife. 2018;7:e38281. [web] (https://elifesciences.org/articles/38281)
+Grimes WN, Baudin J, **Azevedo AW**, Rieke F. Range, routing and kinetics of rod signaling in primate retina. Elife. 2018;7:e38281. [web](https://elifesciences.org/articles/38281)
 
 **Azevedo AW**, Wilson RI. Active Mechanisms of Vibration Encoding and Frequency Filtering in Central Mechanosensory Neurons. Neuron. 2017. Oct 11;96(2):446-460. [web](https://doi.org/10.1016/j.neuron.2017.09.004)
 
